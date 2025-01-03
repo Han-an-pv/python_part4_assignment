@@ -1,0 +1,9 @@
+
+
+difference between local variable and global variable
+
+Local variables are defined inside a function or block, whereas global variable is defined outside of all functions or blocks.
+Local variables exist only during the function’s executions, while global variables remain in memory for the duration of the program.
+Local variables can be accessed only within the function or block where it is defined, whereas global variables are accessed throughout the entire program. 
+Global variables use the global keyword to modify it inside a function, whereas local variables do not require any special keyword.
+Global variables are stored in the memory data segment, while local variables are stored in the stack.
